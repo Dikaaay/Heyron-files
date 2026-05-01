@@ -1,20 +1,18 @@
 # Eigenes Spiel
 
-## Projekt: 2D Spiel
-- **Status:** Heute besprochen
-- **Engine:** Godot (kostenlos, einfach)
-- **Typ:** 2D Platformer oder Jump'n'Run
+## Projekt: RPG/MOBA Hybrid
+- **Tool:** RPG Maker MZ (David kennt sich schon aus)
+- **Erfahrung:** 200+ Stunden bereits
+- **Fokus:** Sichtbare Rüstung/Waffen + gute Attack-Animations
 
-## Was ich machen kann
-- Code schreiben (Godot/GDScript)
-- Game Design + Mechaniken
-- Story-Ideen
-- Du setzt um (lernst dabei)
+## Was ich helfen kann
+- Balance (Stats, Passives)
+- Klassen + Fähigkeiten designen
+- Scripting/Plugins
+- Game Design
 
 ## Aufwand
-- Einfaches Spiel: 2-4 Wochen ( hobbies)
-- MVP in few Stunden machbar
+- MVP: 6-12 Monate (Vollzeit) oder 1-2 Jahre (Nebenbei)
 
 ## Nächste Schritte
-- Godot installieren
-- Konzept überlegen
+- Konzept ausarbeiten (Klassen, Moves, Items)
