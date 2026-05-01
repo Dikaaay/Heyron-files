@@ -1,0 +1,4 @@
+# Generaled Files
+# Tokens would be dummy in repo
+*-config/*
+*.token*.json
