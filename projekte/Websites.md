@@ -3,7 +3,10 @@
 ## Galizien Guide
 - Für Essen, Camping, Surfen, Natur
 - Später monetarisieren mit Ads
-- Noch in Planung
+- MVP: 2-3 Kategorien zuerst
+- WordPress mit Automatisierung
+- Minimaler Aufwand für David
 
-## Aktuell
-- Noch nicht gestartet
+## Stand (2025)
+- Projekt beschlossen
+- Nächster Schritt: Domain + Hosting suchen
