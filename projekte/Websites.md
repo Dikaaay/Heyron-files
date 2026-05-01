@@ -1,11 +1,13 @@
 # Websites
 
-## Galizien Guide
-- Projekt beschlossen
-- Name: discoverGaliciaWonders.com (Hauptseite)
-- MVP: 2-3 Kategorien zuerst
-- WordPress mit Automatisierung
+## Galizien Guide - discoverGaliciaWonders
+- **Name:** discoverGaliciaWonders.com + .es
+- **Status:** Heute besprochen, Domain-Kauf offen
+- **Budget:** ca. 20€/Jahr für beide Domains
+- **Plan:** WordPress, MVP mit 2-3 Kategorien
+- Minimaler Aufwand für David (Automatisierung)
 
 ## Nächste Schritte
-- Domain registrieren (ca. 12€/Jahr)
+- Domain kaufen (namecheap.com)
 - Hosting suchen
+- Website aufbauen
