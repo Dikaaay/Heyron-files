@@ -2,8 +2,7 @@
 
 ## Galizien Guide
 - Projekt beschlossen
-- Name: galiciawonders.com (Hauptseite)
-- Backup: galiciawonders.es
+- Name: discoverGaliciaWonders.com (Hauptseite)
 - MVP: 2-3 Kategorien zuerst
 - WordPress mit Automatisierung
 
